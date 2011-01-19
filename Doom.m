@@ -1,3 +1,6 @@
+%I think this was from helping that guy with his Control Theory Homework.
+%The mistake was in F I believe, one of the coeficients was wrong.
+
 clear all, close all
 m1 = 10;
 m2 = 350;

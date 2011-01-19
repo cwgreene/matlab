@@ -1,3 +1,5 @@
+%obsoleted. This is now being taken over by globularclusters.
+
 %Functions
 printline = @(x) fprintf(strcat(x,'\n'));
 getbackground = @(image) imopen(image,strel('disk',15));

@@ -1,3 +1,8 @@
+%This function demonstrates a brute force method
+%of performing the fourier transform manually.
+%It's not fast, but it is simple. It's based on the
+%direct definition of the fourier transform as integral
+%for each frequency.
 function [transform] = fourierTransform(xvalues,inArray)
     omegavalues = xvalues;
     x=xvalues;

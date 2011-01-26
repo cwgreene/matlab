@@ -1,3 +1,8 @@
+%This function takes in a image which has globular like
+%clusters, and returns the area of the globs. Further Analysis
+%may be added to the result (like distance to next nearest cluster).
+%this is the functioned version of imageprocess.m
+
 function clustersize = globularclusters(pattern)
 %Functions
 printline = @(x) fprintf(strcat(x,'\n'));

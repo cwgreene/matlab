@@ -1,3 +1,6 @@
+%Hacked together script for League of Legends related calculations.
+%Random fun stuff.
+
 function [choice,nx,ns,nc,nf] = lol(which,x,s,c,f)
     nx=x;ns=s;nc=c;nf=f;
     delta_f = 0.0223;

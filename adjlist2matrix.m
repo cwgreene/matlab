@@ -1,4 +1,6 @@
-%takes in a list of matrices, x = {[1,2,3],[2,3,4]}}.
+%adjlist2matrix(adjlists)
+
+%takes in a list of matrices, x = {[1,2,3],[2,3], [1,2]}}.
 %disconnected points need to show up as empty lists,
 %assume that nodes are numbered in sane way.
 
